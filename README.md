@@ -5,6 +5,8 @@ This project aims at predicting whetehr a customer will continue eith the Telco 
   * Cohort Data Analysis
   * Prediction Model (Decision Trees & Random Forests)
 
+Data Source: (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 # Exploratory Data Analysis
 
 Churn Countplot:
