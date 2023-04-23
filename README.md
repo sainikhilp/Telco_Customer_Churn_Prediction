@@ -81,7 +81,7 @@ Random Forests:
 
 
 
-Final Thoughts
+# Final Thoughts:
 The accuracy of both the models was 80%.
 The precision and recall for churn yes and churn no were 53%,42% and 85%,90% respectively.
 The imbalance in the churn class could be the main reason for the difference in the precision and recall values for the churn classes.
